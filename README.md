@@ -4,7 +4,7 @@ PG Life Web Application:-
 
 PG Life is a Full-Stack Web Application. This is a PG Booking web app for booking, viewing PG's in a city. Students, Working Professionals can use this is to find the perfect PG that is best suited to them.
 
-This web app is hosted online at:- http://debanjansarkar.epizy.com/PGLIFE/index.php
+This web app is hosted online at:- http://pg-life.infinityfreeapp.com/
 
 Entire web-app is fully responsive and is operational from any device.
 
